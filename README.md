@@ -4,7 +4,7 @@ This repository contains the code and data for **"Mitigating Occupational Gender
 
 ## Data
 
-We use [WinoMT]([url](https://github.com/gabrielStanovsky/mt_gender)), comprised of WinoBias and Winogender. We kept only the 3168 instances that comprised WinoBias and dropped the data from Winogender, due to differences in sentence version construction.
+We use [WinoMT]((https://github.com/gabrielStanovsky/mt_gender)), comprised of WinoBias and Winogender. We kept only the 3168 instances that comprised WinoBias and dropped the data from Winogender, due to differences in sentence version construction.
 
 ## The Problem
 
